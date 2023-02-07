@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kostiklifter96.github.io/country_information_redux-toolkit/static/css/main.e937bdad.css",
-    "main.js": "/kostiklifter96.github.io/country_information_redux-toolkit/static/js/main.6f4d1792.js",
-    "index.html": "/kostiklifter96.github.io/country_information_redux-toolkit/index.html",
-    "main.e937bdad.css.map": "/kostiklifter96.github.io/country_information_redux-toolkit/static/css/main.e937bdad.css.map",
-    "main.6f4d1792.js.map": "/kostiklifter96.github.io/country_information_redux-toolkit/static/js/main.6f4d1792.js.map"
+    "main.css": "/country_information_redux-toolkit/static/css/main.e937bdad.css",
+    "main.js": "/country_information_redux-toolkit/static/js/main.19de78c3.js",
+    "index.html": "/country_information_redux-toolkit/index.html",
+    "main.e937bdad.css.map": "/country_information_redux-toolkit/static/css/main.e937bdad.css.map",
+    "main.19de78c3.js.map": "/country_information_redux-toolkit/static/js/main.19de78c3.js.map"
   },
   "entrypoints": [
     "static/css/main.e937bdad.css",
-    "static/js/main.6f4d1792.js"
+    "static/js/main.19de78c3.js"
   ]
 }
